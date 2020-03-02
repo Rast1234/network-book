@@ -1,39 +1,4 @@
-<!----- Conversion time: 5.313 seconds.
-
-
-Using this Markdown file:
-
-1. Cut and paste this output into your source file.
-2. See the notes and action items below regarding this conversion run.
-3. Check the rendered output (headings, lists, code blocks, tables) for proper
-   formatting and use a linkchecker before you publish this page.
-
-Conversion notes:
-
-* Docs to Markdown version 1.0β18
-* Mon Mar 02 2020 15:22:02 GMT-0800 (PST)
-* Source doc: https://docs.google.com/open?id=1JDZEAezxRzRHlMoDJanRdjp8A4AcBWeZd6yJvW61m8M
-* This document has images: check for >>>>>  gd2md-html alert:  inline image link in generated source and store images to your server.
-
-WARNING:
-You have 2 H1 headings. You may want to use the "H1 -> H2" option to demote all headings by one level.
-
------>
-
-
-<p style="color: red; font-weight: bold">>>>>>  gd2md-html alert:  ERRORs: 0; WARNINGs: 1; ALERTS: 3.</p>
-<ul style="color: red; font-weight: bold"><li>See top comment block for details on ERRORs and WARNINGs. <li>In the converted Markdown or HTML, search for inline alerts that start with >>>>>  gd2md-html alert:  for specific instances that need correction.</ul>
-
-<p style="color: red; font-weight: bold">Links to alert messages:</p><a href="#gdcalert1">alert1</a>
-<a href="#gdcalert2">alert2</a>
-<a href="#gdcalert3">alert3</a>
-
-<p style="color: red; font-weight: bold">>>>>> PLEASE check and correct alert issues and delete this message and the inline alerts.<hr></p>
-
-
-
 # Введение в компьютерные сети
-
 
 ## Пролог
 
@@ -250,12 +215,7 @@ STP относится ко второму уровню модели OSI. Про
 
 Зачем соединять устройства более чем одним проводом? Например, для избыточности - если один канал отказывает, сеть переходит на второй, и все продолжает работать. Кажется, тут уместно немного рассказать про виды сетей.
 
-
-
-<p id="gdcalert1" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/-0.jpg). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert2">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/-0.jpg "image_tooltip")
+![](images/1.jpg)
 
 
 В Ethernet с использованием STP сеть автоматически превращается в дерево, причем при наличии избыточных соединений и обрыве каких-то каналов дерево само перестраивается и сеть продолжает работать (ну, по крайней мере пытается). Звезда в принципе ничем не отличается от дерева. Полностью соединенные сети встречаются редко, кольца, шины (bus) и линии использовались в прошлом, а ячеистые (mesh) сети постепенно набирают обороты в густонаселенных городах и нужны, например, для обеспечения произвольной связи без центрального провайдера.
@@ -854,12 +814,7 @@ DHCP-сервер может иметь разные настройки, нап�
 
 Домен имеет структуру. Он разделен точками на несколько частей. Все домены можно представить в виде дерева, как на примере: 
 
-
-
-<p id="gdcalert2" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/-1.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert3">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/-1.png "image_tooltip")
+![](images/2.png)
 
 
 Домен читается по частям _справа налево_: например, для домена support.google.com:
@@ -1081,12 +1036,7 @@ Digital Living Network Alliance - семейство протоколов и с�
 
 ### Классификация межсетевых экранов
 
-
-
-<p id="gdcalert3" ><span style="color: red; font-weight: bold">>>>>>  gd2md-html alert: inline image link here (to images/-2.png). Store image on your image server and adjust path/filename if necessary. </span><br>(<a href="#">Back to top</a>)(<a href="#gdcalert4">Next alert</a>)<br><span style="color: red; font-weight: bold">>>>>> </span></p>
-
-
-![alt_text](images/-2.png "image_tooltip")
+![alt_text](images/3.png)
 
 
 Схематическое изображение классификации межсетевых экранов на основе сетевой модели OSI
