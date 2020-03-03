@@ -139,7 +139,7 @@ STP относится ко второму уровню модели OSI. Про
 
 - [0. Поехали](0_start.md)
 - [1. Физический уровень (physical)](1_physical.md)
-- [2. Канальный уровень (data link)](2_data_link.md)
+- 2. Канальный уровень (data link)
 - [3. Сетевой уровень (network)](3_network.md)
 - [4. Транспортный уровень (transport)](4_transport.md)
 - [5. Сеансовый уровень (session)](5_session.md)

@@ -24,7 +24,7 @@
 # Навигация
 
 - [0. Поехали](0_start.md)
-- [1. Физический уровень (physical)](1_physical.md)
+- 1. Физический уровень (physical)
 - [2. Канальный уровень (data link)](2_data_link.md)
 - [3. Сетевой уровень (network)](3_network.md)
 - [4. Транспортный уровень (transport)](4_transport.md)
