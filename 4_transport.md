@@ -204,11 +204,12 @@ TCP - обширная и сложная тема, там есть много и
 
 # Навигация
 
+- [Пролог](README.md)
 - [0. Поехали](0_start.md)
 - [1. Физический уровень (physical)](1_physical.md)
 - [2. Канальный уровень (data link)](2_data_link.md)
 - [3. Сетевой уровень (network)](3_network.md)
-- [4. Транспортный уровень (transport)](4_transport.md)
+- `4. Транспортный уровень (transport)`
 - [5. Сеансовый уровень (session)](5_session.md)
 - [6. Уровень представления (presentation)](6_presentation.md)
 - [7. Прикладной уровень (application)](7_application.md)

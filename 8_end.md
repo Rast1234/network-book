@@ -17,6 +17,7 @@
 
 # Навигация
 
+- [Пролог](README.md)
 - [0. Поехали](0_start.md)
 - [1. Физический уровень (physical)](1_physical.md)
 - [2. Канальный уровень (data link)](2_data_link.md)
@@ -25,4 +26,4 @@
 - [5. Сеансовый уровень (session)](5_session.md)
 - [6. Уровень представления (presentation)](6_presentation.md)
 - [7. Прикладной уровень (application)](7_application.md)
-- [8. Что осталось за кадром](8_end.md)
+- `8. Что осталось за кадром`
