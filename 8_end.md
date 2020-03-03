@@ -12,7 +12,7 @@
 *   Чьи-то случайные блоги
 *   Курсы в ургу и ведущие их люди: Cisco, Интернет, Perl, Web и HTML
 *   Команда Hackerdom и организаторы RuCTF/RuCTFe
-*   Те, кто согласился оставить свои комментарии на полях: Vovanz, Mikle, Izokina, Ardmannas, anonymous
+*   Те, кто согласился оставить свои комментарии на полях: Vovanz, Mikle, Izokina, Ardmannas, Ива, anonymous
 
 
 # Навигация
